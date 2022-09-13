@@ -1,14 +1,14 @@
 [
     {
       "name": "BlackJack",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://shahryarabbasi.github.io/Black_Jack/",
+      "git": "https://github.com/ShahryarAbbasi/Black_Jack",
+      "image": "https://user-images.githubusercontent.com/85513770/184271967-4abcc19c-0eb5-4563-9842-c54691766f6d.png"
     },
     {
       "name": "Holler",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://project2-holler.herokuapp.com/",
+      "git": "https://github.com/ShahryarAbbasi/Project_2_Holler",
+      "image": "https://user-images.githubusercontent.com/107660606/188229918-a52b9f39-e27e-45b7-9e06-e9e0048723f1.png"
     }
   ]
